@@ -8,4 +8,10 @@ I used HuggingFace & NVIDIA's CUDA to create this fairly simple program.
 Before running it, go to cmd and install the required modules -
 > pip install torch transformers diffusers Pillow
 
+Plain.py gives a program without a GUI, kinda faster because of it. Main.py gives a sleek simple gui through which user can interact in.
+![image](https://github.com/user-attachments/assets/2fb456eb-fc61-40b1-89fb-3f15606db7fa)
+
+Moreover, do download the NVIDIA CUDA GPU for faster image processing.
+If you don't have a GPU, it's totally fine, the program will just take slightly longer to work.
+
 Once that's done, just run the code and you're all good!
