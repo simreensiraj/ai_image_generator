@@ -6,6 +6,6 @@ Honestly, I'd have used the Open-AI Dall-E API to make this project, which would
 I used HuggingFace & NVIDIA's CUDA to create this fairly simple program.
 
 Before running it, go to cmd and install the required modules -
->>> pip install torch transformers diffusers Pillow
+> pip install torch transformers diffusers Pillow
 
 Once that's done, just run the code and you're all good!
